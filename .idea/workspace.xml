@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ae59173-6621-4dd1-9368-783610d96c51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chain_Message.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Calculator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Switch case statement.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/Weight index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Keyboard events.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mouse event.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sum_two_number.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch _Case_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch_Case_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Achiahetb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maytinh.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keyboard events.html" beforeDir="false" afterPath="$PROJECT_DIR$/Keyboard events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mouse event.html" beforeDir="false" afterPath="$PROJECT_DIR$/Mouse event.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +62,10 @@
       <workItem from="1585815527251" duration="3079000" />
       <workItem from="1585818708580" duration="749000" />
       <workItem from="1585837516449" duration="16000" />
-      <workItem from="1585844704925" duration="1806000" />
+      <workItem from="1585844704925" duration="4310000" />
+      <workItem from="1585879687522" duration="3254000" />
+      <workItem from="1585889902337" duration="14000" />
+      <workItem from="1585903751339" duration="1385000" />
     </task>
     <servers />
   </component>
@@ -75,9 +73,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="738" y="99" key="FileChooserDialogImpl" timestamp="1585875881041">
+    <state x="738" y="99" key="FileChooserDialogImpl" timestamp="1585889914537">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="738" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585875881041" />
+    <state x="738" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585889914537" />
   </component>
 </project>
