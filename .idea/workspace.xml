@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ae59173-6621-4dd1-9368-783610d96c51" name="Default Changelist" comment="" />
+    <list default="true" id="0ae59173-6621-4dd1-9368-783610d96c51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Chain_Message.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/Calculator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/Switch case statement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/Weight index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyboard events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mouse event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum_two_number.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch _Case_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch_Case_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +25,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZvmvlBEc2yANFfH0zkR7evetwu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,7 +63,11 @@
       <option name="presentableId" value="Default" />
       <updated>1585728174719</updated>
       <workItem from="1585728175926" duration="36000" />
-      <workItem from="1585728213091" duration="4629000" />
+      <workItem from="1585728213091" duration="5006000" />
+      <workItem from="1585815527251" duration="3079000" />
+      <workItem from="1585818708580" duration="749000" />
+      <workItem from="1585837516449" duration="16000" />
+      <workItem from="1585844704925" duration="1806000" />
     </task>
     <servers />
   </component>
@@ -56,9 +75,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="738" y="99" key="FileChooserDialogImpl" timestamp="1585728210025">
+    <state x="738" y="99" key="FileChooserDialogImpl" timestamp="1585875881041">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="738" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585728210025" />
+    <state x="738" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585875881041" />
   </component>
 </project>
