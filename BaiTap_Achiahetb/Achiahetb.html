@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kiểm tra a có chia hêt b không </title>
+</head>
+<body>
+<input type="Number"id="a"placeholder="Nhập số a">
+<input type="number" id="b" placeholder="Nhập số b">
+<button type="button" onclick="check()"> kết quả</button>
+
+    <script>
+function check() {
+    let a = document.getElementById("a").value;
+    let b = document.getElementById("b").value;
+    if (a % b == 0){
+        alert(a+"  hết cho "+b);
+    }else
+        alert(a+" không chia hết " +b);
+
+}
+    </script>
+</body>
+</html>

@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ae59173-6621-4dd1-9368-783610d96c51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Achiahetb.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maytinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTap_Achiahetb/Achiahetb.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Keyboard events.html" beforeDir="false" afterPath="$PROJECT_DIR$/Keyboard events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mouse event.html" beforeDir="false" afterPath="$PROJECT_DIR$/Mouse event.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +63,8 @@
       <workItem from="1585844704925" duration="4310000" />
       <workItem from="1585879687522" duration="3254000" />
       <workItem from="1585889902337" duration="14000" />
-      <workItem from="1585903751339" duration="1385000" />
+      <workItem from="1585903751339" duration="3199000" />
+      <workItem from="1585985711146" duration="2229000" />
     </task>
     <servers />
   </component>
